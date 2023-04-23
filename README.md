@@ -1,6 +1,6 @@
 # DisciplinaPOO2023.1
 
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Listas resolvidas referente ao Trabalho  da disciplina de  POO.
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Listas resolvidas referente ao Trabalho 1 da disciplina de POO. 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/124884847/233846188-848bbf67-fb49-4a48-bd82-3d2552bd84c9.png" width="600px" />
